@@ -14,9 +14,6 @@ Esta aplicación web fue desarrollada por **Iván Iraldi** para agilizar el proc
 ✅ **Interfaz simple y fácil de usar**.  
 ✅ **Ahorro de tiempo** en la gestión manual de asistencias.  
 
-## 📹 Video Tutorial
-🎥 [Ver el video tutorial aquí](#) *(Enlace al video explicativo si está disponible)*
-
 ## 🔧 Instalación y uso
 1️⃣ **Clonar el repositorio:**
 ```bash
@@ -25,6 +22,9 @@ Esta aplicación web fue desarrollada por **Iván Iraldi** para agilizar el proc
 2️⃣ **Abrir `index.html` en el navegador**.
 3️⃣ **Cargar el archivo de reporte de Zoom**.
 4️⃣ **Copiar los datos procesados y pegarlos en la plataforma de Desafío Latam**.
+
+## 🌍 Despliegue en Línea
+🔗 [Asistencias ADL - Demo](https://ivaniraldi.github.io/asistencias-ADL/)
 
 ## 📂 Repositorio
 🔗 [GitHub - Asistencias ADL](https://github.com/ivaniraldi/asistencias-ADL)
